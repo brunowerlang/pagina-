@@ -1,0 +1,25 @@
+.futuro {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.normal {
+    font-weight: 300;
+}
+
+.futuro-titulo {
+    font-size: 30px;
+    margin-bottom: 25px;
+    width: 80%;
+    text-align: justify;
+    
+}
+
+.futuro-texto {
+    font-size: 28px;
+    margin-bottom: 30px;
+    width: 99%; 
+    text-align: justify;
+}
